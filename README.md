@@ -1,9 +1,1 @@
-starter
-=======
-hello world!
-
-test 3
-
-test 4
-
-boom!
+This is a starter repository of bootstrap 2.2.2 with jquery 1.9.0
