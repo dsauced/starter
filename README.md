@@ -1,1 +1,5 @@
-This is a starter repository of bootstrap 2.2.2 with jquery 1.9.0
+Files in this starter repository
+=================================
+jQuery 1.9.0
+Bootstrap 2.2.2
+
